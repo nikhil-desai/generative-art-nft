@@ -15,11 +15,11 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Base metadata. MUST BE EDITED.
 BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_NAME = "Creative Blocks"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "The Creative Blocks are your all access pass to the ARThentic Community of Creators!",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
